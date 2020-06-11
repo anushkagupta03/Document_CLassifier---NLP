@@ -29,7 +29,7 @@ Word embedding is the collective name for a set of language modeling and feature
 
 Using the knowledge from an external embedding can enhance the precision of your RNN because it integrates new information (lexical and semantic) about the words, an information that has been trained and distilled on a very large corpus of data. The pre-trained embedding we’ll be using is Global Vectors or GloVe. GloVe is an unsupervised learning algorithm for obtaining vector representations for words. Training is performed on aggregated global word-word co-occurrence statistics from a corpus, and the resulting representations showcase interesting linear substructures of the word vector space. 
 
-Some more information and links are provided in the [Jupyter Notebook](https://github.com/giorgosterz/Document_CLassifier---NLP/blob/master/document_classifier_bbc_news.ipynb), so let's jump right in!
+Some more information and links are provided in the [Jupyter Notebook](https://github.com/giorgosterz/Document_CLassifier---NLP/blob/master/document_classifier.ipynb), so let's jump right in!
 
 
 
